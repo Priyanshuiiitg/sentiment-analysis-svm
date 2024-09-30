@@ -52,7 +52,7 @@ Make sure to place these files in the same directory as the script.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/sentiment-analysis-svm.git
+   git clone https://github.com/Priyanshuiiitg/sentiment-analysis-svm.git
    cd sentiment-analysis-svm
    ```
 
