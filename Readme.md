@@ -64,7 +64,7 @@ Make sure to place these files in the same directory as the script.
 2. Run the Python script:
 
    ```bash
-   python sentiment_analysis.py
+   python app.py
    ```
 
 ## Model Training
